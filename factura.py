@@ -38,7 +38,7 @@ while comprando:
         carrito_precios.append(precios[opcion])
         print(f"¡Agregado! -> {productos[opcion]} (${precios[opcion]:,})")
     else:
-        print("Número inválido. Intenta de nuevo (0 al 14).")
+        print("Número inválido. Por favor, Intenta de nuevo (0 al 14).")
         
     print("-" * 40)
 
