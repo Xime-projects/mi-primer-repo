@@ -10,7 +10,7 @@ precios = [
     1700, 600, 1500, 3000, 5000
 ]
 
-IVA = 0.19
+IVA = 0.15
 
 # Listas vacías para el carrito del usuario
 carrito_nombres = []
